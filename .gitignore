@@ -1,0 +1,15 @@
+# Build files
+build/
+cmake-build-*/
+
+# macOS
+.DS_Store
+
+# Compiled files
+*.o
+*.d
+*.a
+*.dSYM/
+
+# VS Code workspace settings
+.vscode/
